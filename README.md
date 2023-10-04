@@ -25,7 +25,7 @@ En este segundo día de trabajo, nos sumergimos en el fascinante mundo de la pro
     -   Los bucles `for` son ideales cuando deseamos iterar sobre una secuencia de elementos. Aprendimos a utilizarlos de la siguiente             manera:
          for elemento in secuencia:
             Código para cada elemento
-    -   Los bucles while son útiles cuando queremos repetir una acción mientras se cumpla una condición. Aprendimos a usarlos de la                 siguiente manera:
+    -   Los bucles `while` son útiles cuando queremos repetir una acción mientras se cumpla una condición. Aprendimos a usarlos de la                 siguiente manera:
           while condición:
              Código mientras la condición sea verdadera
     
