@@ -58,4 +58,15 @@ En este día de trabajo hemos aprendido diversas habilidades relacionadas con el
   - En esta práctica, realizaremos una solicitud GET a la API de SpaceX para obtener los datos necesarios para predecir si un Falcon 9 aterrizará con éxito o no. Además, llevaremos a cabo manipulación básica de datos y limpieza para asegurarnos de que sigan un formato adecuado para las fases siguientes.
   
 - **Gabri SpaceX - 3:**
-  -En esta práctica, realizaré una solicitud GET a la API de SpaceX para obtener los datos necesarios. Una vez obtenidos, los subiremos a una base de datos SQL. Posteriormente, realizaremos diversas consultas (queries) en la base de datos para obtener información relevante y analizar los datos en profundidad. Esta fase nos ayudará a extraer patrones y tendencias que puedan ser útiles para tomar decisiones informadas en relación con los aterrizajes de Falcon 9. 
+  -En esta práctica, realizaré una solicitud GET a la API de SpaceX para obtener los datos necesarios. Una vez obtenidos, los subiremos a una base de datos SQL. Posteriormente, realizaremos diversas consultas (queries) en la base de datos para obtener información relevante y analizar los datos en profundidad. Esta fase nos ayudará a extraer patrones y tendencias que puedan ser útiles para tomar decisiones informadas en relación con los aterrizajes de Falcon 9.
+
+## **Día 5**
+Durante esta jornada, nos sumergimos en el uso de la poderosa librería NumPy, una herramienta esencial para el procesamiento numérico en Python. Aprendimos cómo crear arreglos NumPy, realizar operaciones matemáticas en ellos y sacar provecho de sus capacidades para el álgebra lineal.
+
+Además, dedicamos parte de nuestro tiempo a la práctica, realizando ejercicios de repaso que nos permitieron consolidar nuestros conocimientos y poner en práctica lo que habíamos aprendido.
+
+- **Gabri M4 - 07 - Numpy:**
+Hemos abordado conceptos clave de NumPy, incluyendo la creación de arreglos NumPy, operaciones matemáticas con estos arreglos, así como también su relevancia en el ámbito del álgebra lineal y cálculos científicos. Este archivo ha servido como un recurso invaluable para familiarizarnos con NumPy y para comprender cómo esta librería puede potenciar nuestras capacidades en programación y análisis de datos en Python.
+
+- **Gabri Ejercicios Repaso Python:**
+Estos ejercicios han sido una herramienta fundamental para afianzar y consolidar los conocimientos que hemos adquirido sobre todo lo aprendido en este largo proceso.
