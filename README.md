@@ -52,3 +52,8 @@ En este día de trabajo hemos aprendido diversas habilidades relacionadas con el
 
 - **Gabri SpaceX - 4:**
   - Realizamos la visualización de datos mediante el uso de diferentes gráficas que nos permitieron analizar la gran cantidad de datos presentes.
+
+## **Día 2**
+- **Gabri SpaceX -1:**
+  
+- **Gabri SpaceX - 3:**
