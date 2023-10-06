@@ -55,5 +55,7 @@ En este día de trabajo hemos aprendido diversas habilidades relacionadas con el
 
 ## **Día 2**
 - **Gabri SpaceX -1:**
+  - En esta práctica, realizaremos una solicitud GET a la API de SpaceX para obtener los datos necesarios para predecir si un Falcon 9 aterrizará con éxito o no. Además, llevaremos a cabo manipulación básica de datos y limpieza para asegurarnos de que sigan un formato adecuado para las fases siguientes.
   
 - **Gabri SpaceX - 3:**
+  -En esta práctica, realizaré una solicitud GET a la API de SpaceX para obtener los datos necesarios. Una vez obtenidos, los subiremos a una base de datos SQL. Posteriormente, realizaremos diversas consultas (queries) en la base de datos para obtener información relevante y analizar los datos en profundidad. Esta fase nos ayudará a extraer patrones y tendencias que puedan ser útiles para tomar decisiones informadas en relación con los aterrizajes de Falcon 9. 
