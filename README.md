@@ -53,7 +53,7 @@ En este día de trabajo hemos aprendido diversas habilidades relacionadas con el
 - **Gabri SpaceX - 4:**
   - Realizamos la visualización de datos mediante el uso de diferentes gráficas que nos permitieron analizar la gran cantidad de datos presentes.
 
-## **Día 2**
+## **Día 4**
 - **Gabri SpaceX -1:**
   - En esta práctica, realizaremos una solicitud GET a la API de SpaceX para obtener los datos necesarios para predecir si un Falcon 9 aterrizará con éxito o no. Además, llevaremos a cabo manipulación básica de datos y limpieza para asegurarnos de que sigan un formato adecuado para las fases siguientes.
   
